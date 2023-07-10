@@ -87,7 +87,7 @@
 
 // export default About;
 
-
+// about us page
 import React from "react";
 import Image from "../assets/avatar.svg";
 import Img from "../assets/imgg.jpeg";
